@@ -1,0 +1,2 @@
+# Network_Design_of_a_Company_in_Packet_Tracer
+In this multinational organization will be 2 building in different countries having near equal to 100 computer user and in that their will be VLAN and SUBNET according to the department and their main server which handles the data of the firm situated in the 3rd country other than the above 2 countries and all are connected to through routers. The purpose of this structure is to share data among the company's offices from their central server.
